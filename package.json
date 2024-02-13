@@ -1,5 +1,5 @@
 {
-  "name": "gdsc",
+  "name": "easeUOL",
   "version": "1.0.0",
   "description": "",
   "main": "BACKEND/index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Thusharke/GDSC.git"
+    "url": "git+https://github.com/pothan220/hackathonibm.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Thusharke/GDSC/issues"
   },
-  "homepage": "https://github.com/Thusharke/GDSC#readme",
+  "homepage": "https://github.com/pothan220/hackathonibmC#readme",
   "devDependencies": {
     "concurrently": "^6.4.0",
     "nodemon": "^2.0.15"
