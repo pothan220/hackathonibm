@@ -1,0 +1,8 @@
+{
+  "blogs\\index.tsx -> ../../content/blogs/content.md": {
+    "id": "./content/blogs/content.md",
+    "files": [
+      "static/chunks/content_blogs_content_md.js"
+    ]
+  }
+}

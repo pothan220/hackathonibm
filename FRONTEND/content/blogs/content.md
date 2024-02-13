@@ -1,0 +1,36 @@
+---
+blogs:
+  - id: 'post1'
+    title: 'Simple Linear Regression'
+    category: 'Article'
+    date: 'May 5, 2020'
+    datetime: '2020-05-05'
+    shortDesc: 'Linear regression is the simplest form of a classification problem. We have many techniques to do this type of regression. Today we are going to learn how to use the PyTorch API to help us do this classification.'
+    image: 'https://miro.medium.com/max/782/1*s__TPBAazXrNLurjE77bcQ.png'
+    readingTime: '3 min'
+    author:
+      name: 'Pothan'
+      imageUrl: '/team/pothan.jpg'
+  - id: 'post2'
+    title: 'Simple CNN using PyTorch'
+    category: 'Deep Learning'
+    date: 'May 1, 2020'
+    datetime: '2020-05-01'
+    shortDesc: 'This article is a simple guide that will help you build and understand the concepts behind building a simple CNN. By the end of this article you will be able to build a simple CNN based on the PyTorch API and will classify clothing using the FashionMNIST dateset.'
+    image: 'https://miro.medium.com/max/1400/1*Bl-EM5EmdzGEdY34Ex_Ulw.png'
+    readingTime: '4 min'
+    author:
+      name: 'pothan'
+      imageUrl: '/team/pothan.jpg'
+  - id: 'post3'
+    title: 'Cleaning experience'
+    category: 'Cleaning'
+    date: 'July 8, 2020'
+    datetime: '2020-07-08'
+    shortDesc: 'Struggling to Clean your Room? This Blog helps you to reach the ideal person for cleaning the stuff in your room in an affordable manner '
+    image: 'https://plus.unsplash.com/premium_photo-1677683508374-a6f50382eb66?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+    readingTime: '4 min'
+    author:
+      name: 'Sufiyaan'
+      imageUrl: '/team/pothan.jpg'
+---
